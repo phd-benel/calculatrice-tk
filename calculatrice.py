@@ -13,7 +13,7 @@ def calculer():
 
 # Interface
 app = tk.Tk()
-app.title("Calculatrice")
+app.title("Calculatricee")
 
 entry1 = tk.Entry(app)
 entry1.pack()
